@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/malformed_test.dir/malformed_test.c.o -o malformed_test 
