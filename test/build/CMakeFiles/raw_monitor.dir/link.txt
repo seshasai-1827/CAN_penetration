@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/raw_monitor.dir/raw_monitor.c.o -o raw_monitor 

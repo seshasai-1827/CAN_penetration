@@ -1,6 +1,0 @@
-/home/storm1827/Desktop/MG_CAN_testing/test/build/CMakeFiles/isotp_receiver.dir
-/home/storm1827/Desktop/MG_CAN_testing/test/build/CMakeFiles/isotp_sender.dir
-/home/storm1827/Desktop/MG_CAN_testing/test/build/CMakeFiles/raw_monitor.dir
-/home/storm1827/Desktop/MG_CAN_testing/test/build/CMakeFiles/malformed_test.dir
-/home/storm1827/Desktop/MG_CAN_testing/test/build/CMakeFiles/edit_cache.dir
-/home/storm1827/Desktop/MG_CAN_testing/test/build/CMakeFiles/rebuild_cache.dir

@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/isotp_sender.dir/isotp_sender.c.o -o isotp_sender 

@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/isotp_receiver.dir/isotp_reciever.c.o -o isotp_receiver 
